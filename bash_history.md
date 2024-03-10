@@ -24,5 +24,12 @@ git status
 # edit .gitignore
 git add .
 git commit -m'Added hello world app'
-git push push
+git push
+```
+## Creating price-table bootstrap page
+```shell
+# Create signup.html, style.css. Change to the index.py.
+git add .
+git commit -m'Added price-table example'
+git push
 ```
